@@ -1,3 +1,3 @@
-(function() {
-  $("body").prepend("<div id='pervasive-banner'>Pervasive banner pervading your space!</div>");
-}).call(this);
+Discourse.Dialect.postProcessText(function (text) {
+    return text.toUpperCase();
+});
