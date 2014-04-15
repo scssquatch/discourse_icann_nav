@@ -1,6 +1,6 @@
 # DiscourseIcannNav
 
-TODO: Write a gem description
+Nav Bar for ICANN discourse instance
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Use if you want your discourse instance to have an ICANN nav bar.
 
 ## Contributing
 
